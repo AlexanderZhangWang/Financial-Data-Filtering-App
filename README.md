@@ -1,5 +1,7 @@
 # Financial Data Filtering App
 
+Used Flask + React deployed on AWS EC2
+
 [Deployed](http://18.117.249.175:5000/)
 
 ## 1.1 Clone the repo:
